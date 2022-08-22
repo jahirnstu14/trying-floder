@@ -9,7 +9,7 @@ int main() {
   cin >> num1 >> num2;
  
   // performs multiplication and stores the result in product variable
-  product = num1 * num2;  
+  product = num1 * num2*5;  
 
   cout << "Product = " << product;    
     
